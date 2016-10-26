@@ -1,0 +1,15 @@
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\bin\Debug\RoboRescue.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\bin\Debug\RoboRescue.pdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\bin\Debug\RoboRescue.RoboRescue.apk
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\bin\Debug\RoboRescue.RoboRescue-Signed.apk
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\RoboRescue.csprojResolveAssemblyReference.cache
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\RoboRescue.dll
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\RoboRescue.pdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\android\bin\RoboRescue.RoboRescue.apk
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\res\layout\main.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\res\values\strings.xml
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\res\drawable\icon.png
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\R.cs.flag
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\uploadflags.txt
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\obj\Debug\RoboRescue.dll.mdb
+C:\Users\simon\Documents\Visual Studio 2015\Projects\RoboRescue\RoboRescue\bin\Debug\RoboRescue.dll.mdb

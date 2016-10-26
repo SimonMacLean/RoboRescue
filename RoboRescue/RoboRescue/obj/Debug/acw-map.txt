@@ -1,0 +1,4 @@
+RoboRescue.MainActivity, RoboRescue;md59e4e3b1ab1033bfd0896800ebbda79e6.MainActivity
+RoboRescue.MainActivity, RoboRescue, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59e4e3b1ab1033bfd0896800ebbda79e6.MainActivity
+RoboRescue.MainActivity;md59e4e3b1ab1033bfd0896800ebbda79e6.MainActivity
+roborescue.MainActivity;md59e4e3b1ab1033bfd0896800ebbda79e6.MainActivity
